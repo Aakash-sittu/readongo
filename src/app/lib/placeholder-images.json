@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-tech",
+      "description": "Abstract technological grid pattern with blue accents",
+      "imageUrl": "https://picsum.photos/seed/vektor1/1200/600",
+      "imageHint": "technology grid"
+    },
+    {
+      "id": "news-ai",
+      "description": "Neural network abstraction",
+      "imageUrl": "https://picsum.photos/seed/vektor2/800/450",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "news-dev",
+      "description": "Clean code on a screen",
+      "imageUrl": "https://picsum.photos/seed/vektor3/800/450",
+      "imageHint": "software code"
+    },
+    {
+      "id": "news-product",
+      "description": "Modern minimalist hardware product design",
+      "imageUrl": "https://picsum.photos/seed/vektor4/800/450",
+      "imageHint": "minimalist gadget"
+    }
+  ]
+}
