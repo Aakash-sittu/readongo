@@ -22,7 +22,7 @@ export function Header() {
       <div className="container mx-auto px-4 md:px-8 h-16 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <div className="w-6 h-6 bg-primary" />
-          <span className="font-headline font-black text-lg sm:text-xl tracking-tighter text-primary">VEKTOR INSIGHT</span>
+          <span className="font-headline font-black text-lg sm:text-xl tracking-tighter text-primary">READONGO</span>
         </div>
         
         {/* Desktop Navigation */}
@@ -65,7 +65,7 @@ export function Header() {
                 <div className="flex flex-col gap-8 mt-12">
                   <div className="flex items-center gap-2">
                     <div className="w-6 h-6 bg-primary" />
-                    <span className="font-headline font-black text-lg tracking-tighter text-primary">VEKTOR</span>
+                    <span className="font-headline font-black text-lg tracking-tighter text-primary">READONGO</span>
                   </div>
                   <nav className="flex flex-col gap-6">
                     {menuItems.map((item) => (

@@ -1,4 +1,4 @@
-# **App Name**: Vektor Insight
+# **App Name**: Readongo
 
 ## Core Features:
 

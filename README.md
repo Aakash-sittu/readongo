@@ -1,6 +1,6 @@
-# Vektor Insight | Precision Tech Intelligence
+# Readongo | Precision Tech Intelligence
 
-Vektor Insight is a high-density information architecture platform designed for technical leaders and architects. It distills the complexity of global technological trends into atomic, logic-driven intelligence signals.
+Readongo is a high-density information architecture platform designed for technical leaders and architects. It distills the complexity of global technological trends into atomic, logic-driven intelligence signals.
 
 ## 🚀 Overview
 
@@ -49,7 +49,7 @@ A backend-driven summarization engine that transforms raw RSS and Reddit data in
 
 ## 📐 Design Philosophy
 
-Vektor Insight follows the **Atomic Architecture** principles:
+Readongo follows the **Atomic Architecture** principles:
 - **Density over whitespace:** Maximum information per square pixel.
 - **Logic over aesthetics:** Every line and border serves a structural purpose.
 - **Neutrality:** Objective information presentation without editorial bias.

@@ -13,7 +13,7 @@ export function Hero() {
             THE ATOMIC<br />ARCHITECTURE<br />OF NEWS.
           </h1>
           <p className="max-w-xl text-lg md:text-xl text-primary/80 font-medium leading-tight">
-            Vektor Insight distills the complexity of global tech trends into high-density, logic-driven intelligence cards.
+            Readongo distills the complexity of global tech trends into high-density, logic-driven intelligence cards.
           </p>
         </div>
         <div className="md:col-span-4 flex flex-col justify-end">

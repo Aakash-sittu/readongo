@@ -1,6 +1,6 @@
-# Vektor Insight Backend Requirements
+# Readongo Backend Requirements
 
-This document outlines the necessary updates and feature implementations required for the [readongo-backend](https://github.com/Aakash-sittu/readongo-backend) to fully support the Vektor Insight high-density frontend.
+This document outlines the necessary updates and feature implementations required for the [readongo-backend](https://github.com/Aakash-sittu/readongo-backend) to fully support the Readongo high-density frontend.
 
 ## 1. Core API Endpoints
 

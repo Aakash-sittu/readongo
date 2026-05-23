@@ -10,7 +10,7 @@ export function Footer() {
           <div className="md:col-span-6">
             <div className="flex items-center gap-2 mb-8">
               <div className="w-8 h-8 bg-primary" />
-              <span className="font-headline font-black text-2xl tracking-tighter text-primary">VEKTOR INSIGHT</span>
+              <span className="font-headline font-black text-2xl tracking-tighter text-primary">READONGO</span>
             </div>
             <p className="max-w-md text-primary/60 font-medium leading-relaxed mb-8">
               A systematic exploration of the global technological landscape.

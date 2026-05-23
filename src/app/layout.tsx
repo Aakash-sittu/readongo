@@ -2,7 +2,7 @@ import type {Metadata} from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Vektor Insight | Precision Tech Intelligence',
+  title: 'Readongo | Precision Tech Intelligence',
   description: 'Global tech insights processed through algorithmic precision and high-density information architecture.',
 };
 

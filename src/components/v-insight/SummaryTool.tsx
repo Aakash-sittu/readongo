@@ -79,7 +79,7 @@ export function SummaryTool() {
           <p className="text-[10px] font-black text-accent uppercase tracking-widest mb-4">Intelligence Pipeline v.2.5</p>
           <h2 className="text-4xl md:text-6xl font-black mb-8 leading-[0.9]">BACKEND AI<br />DISTILLATION</h2>
           <p className="text-lg opacity-80 mb-8 font-medium">
-            Summarization is now handled entirely by the Vektor Backend System. 
+            Summarization is now handled entirely by the Readongo Backend System. 
             Monitor the automated pipeline status or trigger a manual synchronization of the latest raw signals.
           </p>
           
